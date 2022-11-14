@@ -2,8 +2,8 @@ import ProfilePhoto from '../imgs/profile-photo.jfif'
 
 export default function Photo(){
     return (
-        <div className="profile-photo-container">
+        <figure className="profile-photo-container">
             <img class="profile-photo" src={ProfilePhoto} alt="Profile" ></img>
-        </div>
+        </figure>
     )
 }
