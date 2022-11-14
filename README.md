@@ -1,6 +1,5 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is the Solo Project from the course Learn React For Free. 
+Based on figma: https://www.figma.com/file/xqPxBsuuATaA22pUPQs0nd/Digital-Business-Card-(Copy)?node-id=0%3A129
 
 ## Available Scripts
 
