@@ -1,6 +1,6 @@
-This is the Solo Project from the course Learn React For Free.\ 
-Based on figma: https://www.figma.com/file/xqPxBsuuATaA22pUPQs0nd/Digital-Business-Card-(Copy)?node-id=0%3A129
-Netfly deploy: https://sweet-empanada-d73278.netlify.app/
+This is the Solo Project from first part the course Learn React For Free.  
+Based on figma: https://www.figma.com/file/xqPxBsuuATaA22pUPQs0nd/Digital-Business-Card-(Copy)?node-id=0%3A129Netfly  
+To see the final project: https://sweet-empanada-d73278.netlify.app/
 
 ## Available Scripts
 
